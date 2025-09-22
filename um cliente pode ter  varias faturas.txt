@@ -1,0 +1,15 @@
+um cliente pode ter  varias faturas  (1-n)
+
+uma fatura pode ter  vários produtos (1-n)
+
+um funcionário pode ter  vários clientes(1-n)
+
+um produto pode ser comprado por vários  cliente (1-n)
+
+vários produtos podem ser comprados por vários produtos (n-n)
+
+um cliente pode ter vários produtos (1-n)
+
+um cliente pode ser atendido por vários funcionários (1-n) 
+
+
